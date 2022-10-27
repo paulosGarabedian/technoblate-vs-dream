@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background-color: darkgreen;
+}
+header{
+    background-color: darkgreen;
+}
+header{
+    text-align: center;
+    padding: 1px;
+}
+h1.theheading{
+border-top: 2px dashed greenyellow;
+
+}
